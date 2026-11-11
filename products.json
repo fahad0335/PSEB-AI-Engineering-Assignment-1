@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "price": 1500.0,
+        "stock": 10,
+        "tags": [
+            "electronics",
+            "pc"
+        ]
+    },
+    {
+        "name": "Mechanical Keyboard",
+        "price": 4500.0,
+        "stock": 0,
+        "tags": [
+            "electronics",
+            "gaming"
+        ]
+    },
+    {
+        "name": "USB-C Cable",
+        "price": 500.0,
+        "stock": 25,
+        "tags": [
+            "accessories"
+        ]
+    },
+    {
+        "name": "Gaming Headset",
+        "price": 3200.0,
+        "stock": 0,
+        "tags": [
+            "audio",
+            "gaming"
+        ]
+    },
+    {
+        "name": "Laptop Stand",
+        "price": 1800.0,
+        "stock": 5,
+        "tags": [
+            "ergonomics"
+        ]
+    }
+]
